@@ -1,0 +1,16 @@
+{
+  "mse": {
+    "mean_max_reward": 0.5799403633894759,
+    "success_rate": 0.1,
+    "median_max_reward": 0.675149851065008,
+    "frac_reward_below_0.5": 0.44,
+    "mean_len_successful": 195.2
+  },
+  "flow": {
+    "mean_max_reward": 0.8408298841854362,
+    "success_rate": 0.18,
+    "median_max_reward": 0.9338972154213584,
+    "frac_reward_below_0.5": 0.09,
+    "mean_len_successful": 213.05555555555554
+  }
+}
